@@ -11,12 +11,12 @@ html {
 body {
   padding: 0;
   margin:0;
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Roboto';
 }
 
 h1 {
   text-align: center;
-  font-size: 10rem;
+  font-size: 6rem;
   line-height:1;
   margin-bottom: 0;
 }
